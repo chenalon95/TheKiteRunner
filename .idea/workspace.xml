@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a80f73a2-7bdf-4a5b-9e1d-b8945359990b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UO8REDbTPhXYZ9iDi36qHCuZBH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.createCoordinates">
+    <configuration name="aaaa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="createAddressFiles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/createAddressFiles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="createCoordinates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/createCoordinates.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pyt1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/createXML.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.aaaa" />
+      <item itemvalue="Python.pyt1" />
+      <item itemvalue="Python.createAddressFiles" />
+      <item itemvalue="Python.createCoordinates" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.createCoordinates" />
+        <item itemvalue="Python.pyt1" />
+        <item itemvalue="Python.createAddressFiles" />
+        <item itemvalue="Python.aaaa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a80f73a2-7bdf-4a5b-9e1d-b8945359990b" name="Default Changelist" comment="" />
+      <created>1575216270922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575216270922</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581971688674">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="141" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.694@0.27.1366.694" timestamp="1581971688674" />
+    <state width="1343" height="217" key="GridCell.Tab.0.bottom" timestamp="1581971866591">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1343" height="217" key="GridCell.Tab.0.bottom/0.27.1366.694@0.27.1366.694" timestamp="1581971866591" />
+    <state width="1343" height="217" key="GridCell.Tab.0.center" timestamp="1581971866590">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1343" height="217" key="GridCell.Tab.0.center/0.27.1366.694@0.27.1366.694" timestamp="1581971866590" />
+    <state width="1343" height="217" key="GridCell.Tab.0.left" timestamp="1581971866590">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1343" height="217" key="GridCell.Tab.0.left/0.27.1366.694@0.27.1366.694" timestamp="1581971866590" />
+    <state width="1343" height="217" key="GridCell.Tab.0.right" timestamp="1581971866591">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1343" height="217" key="GridCell.Tab.0.right/0.27.1366.694@0.27.1366.694" timestamp="1581971866591" />
+    <state width="1343" height="222" key="GridCell.Tab.1.bottom" timestamp="1581716206088">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1343" height="222" key="GridCell.Tab.1.bottom/0.27.1366.694@0.27.1366.694" timestamp="1581716206088" />
+    <state width="1343" height="222" key="GridCell.Tab.1.center" timestamp="1581716206088">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1343" height="222" key="GridCell.Tab.1.center/0.27.1366.694@0.27.1366.694" timestamp="1581716206088" />
+    <state width="1343" height="222" key="GridCell.Tab.1.left" timestamp="1581716206087">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1343" height="222" key="GridCell.Tab.1.left/0.27.1366.694@0.27.1366.694" timestamp="1581716206087" />
+    <state width="1343" height="222" key="GridCell.Tab.1.right" timestamp="1581716206088">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1343" height="222" key="GridCell.Tab.1.right/0.27.1366.694@0.27.1366.694" timestamp="1581716206088" />
+    <state x="172" y="27" width="1012" height="694" key="SettingsEditor" timestamp="1581971864788">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="172" y="27" width="1012" height="694" key="SettingsEditor/0.27.1366.694@0.27.1366.694" timestamp="1581971864788" />
+    <state width="683" height="348" key="XDebugger.FullValuePopup" timestamp="1580913095215">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="683" height="348" key="XDebugger.FullValuePopup/0.27.1366.694@0.27.1366.694" timestamp="1580913095215" />
+    <state x="260" y="81" width="836" height="584" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1579901879059">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="260" y="81" width="836" height="584" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.27.1366.694@0.27.1366.694" timestamp="1579901879059" />
+    <state x="339" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1579607705934">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="339" y="201" key="com.intellij.ide.util.TipDialog/0.27.1366.694@0.27.1366.694" timestamp="1579607705934" />
+    <state x="162" y="27" width="1031" height="694" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579899528397">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="162" y="27" width="1031" height="694" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.694@0.27.1366.694" timestamp="1579899528397" />
+    <state x="347" y="19" width="672" height="676" key="search.everywhere.popup" timestamp="1579895225136">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="347" y="19" width="672" height="676" key="search.everywhere.popup/0.27.1366.694@0.27.1366.694" timestamp="1579895225136" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/createAddressFiles.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/aaaa.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/createXML.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/createXML.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/createAddressFiles.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="word[:-12]" language="Python" />
+        <watch expression="word[-12:]" language="Python" />
+        <watch expression="word[-11:]" language="Python" />
+        <watch expression="word[11:]" language="Python" />
+        <watch expression="word[11:-12]" language="Python" />
+        <watch expression="word[10:-11]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
