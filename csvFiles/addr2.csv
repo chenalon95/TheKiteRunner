@@ -13,10 +13,10 @@ Latitude,Longitude,Name
 37.6688205,-122.0807964,Hayward
 46.0193462,-60.372133,East Bay
 26.6639559,-80.7161701,South Bay
-48.870745,2.2933072,Peninsula
-45.0677551,7.6824892,Torino
-42.7811566,-3.6202096,Los Altos
-28.469648,-16.2540884,Santa Cruz
+33.5987849,-117.8305663,"Peninsula, California"
+33.6200348,-117.7391246,"Torino, California"
+37.3790629,-122.116578,"Los Altos, California"
+37.050096,-121.9905908,"Santa Cruz, California"
 46.5334929,-123.768029,Pacific
 40.735657,-74.1723667,Newark
 37.36883,-122.03635,"San Jose, Milpitas, Sunnyvale"
@@ -29,7 +29,6 @@ Latitude,Longitude,Name
 31.9259051,-102.2787734,Mission Boulevard
 37.3351902,-121.8812255,San Jose State
 40.7127281,-74.0060152,New York
-39.9027217,116.3914409,Tiananmen Square
 37.7790262,-122.4199061,San Francisco
 37.7429861,-122.4158042,Bernal Heights
 45.9896587,-94.6113288,Minnesota

@@ -12,10 +12,10 @@ San Jose
 Hayward
 East Bay
 South Bay
-Peninsula
-Torino
-Los Altos
-Santa Cruz
+Peninsula, California
+Torino, California
+Los Altos, California
+Santa Cruz, California
 Pacific
 Newark
 San Jose, Milpitas, Sunnyvale
@@ -28,7 +28,6 @@ Santa Clara
 Mission Boulevard
 San Jose State
 New York
-Tiananmen Square
 San Francisco
 Bernal Heights
 Minnesota
