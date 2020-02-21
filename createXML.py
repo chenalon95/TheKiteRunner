@@ -10,10 +10,19 @@ from xml.sax.saxutils import unescape
 
 def createXML():
     # create header
-    root = etree.Element("root")
+    root = etree.Element("TEI")
     teiHeader = etree.SubElement(root, "teiHeader")
     fileDesc = etree.SubElement(teiHeader, "fileDesc")
     titleStmt = etree.SubElement(fileDesc, "titleStmt")
+    publicationStmt = etree.SubElement(fileDesc, "publicationStmt")
+    publisher = etree.SubElement(publicationStmt, "publisher")
+    sourceDesc = etree.SubElement(fileDesc, "sourceDesc")
+    scriptStmt = etree.SubElement(sourceDesc, "scriptStmt")
+    biblFull = etree.SubElement(scriptStmt, "biblFull")
+    titleStmt_ = etree.SubElement(biblFull, "titleStmt")
+    title = etree.SubElement(titleStmt_, "title")
+    publicationStmt_ = etree.SubElement(biblFull, "publicationStmt")
+
     title = etree.SubElement(titleStmt, "title")
     title.text = "THE KITE RUNNER"
     author = etree.SubElement(titleStmt, "author")
